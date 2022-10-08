@@ -1,0 +1,3 @@
+/home/lidox/VScode Projects/Bullet/build/CMakeFiles/rebuild_cache.dir
+/home/lidox/VScode Projects/Bullet/build/CMakeFiles/edit_cache.dir
+/home/lidox/VScode Projects/Bullet/build/CMakeFiles/demo.dir

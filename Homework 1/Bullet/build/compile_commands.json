@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/lidox/VScode Projects/Bullet/build",
+  "command": "/usr/bin/g++   -isystem /usr/local/include/opencv4  -g   -std=gnu++14 -o CMakeFiles/demo.dir/main.cpp.o -c \"/home/lidox/VScode Projects/Bullet/main.cpp\"",
+  "file": "/home/lidox/VScode Projects/Bullet/main.cpp"
+}
+]
