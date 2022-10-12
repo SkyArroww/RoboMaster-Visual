@@ -35,7 +35,7 @@ time find Test/ -name "*.c" -o -name "*.h" -type f | xargs grep hello -n
 
 对于此图片，多通道相减法效果更好 (也可能是窝hsv调参木有调好/(ㄒoㄒ)/~~
 
-顺便贴个还不错的教程 [形态学处理(https://zhuanlan.zhihu.com/p/511628175))
+顺便贴个还不错的教程 [形态学处理](https://zhuanlan.zhihu.com/p/511628175)
 
 (卷积核选择MORPH_RECT, MORPH_CROSS, MORPH_ELLIPSE 效果有挺大差异的，可以适当选择
 
