@@ -1,3 +1,0 @@
-/home/lidox/VScode Projects/Apple/build/CMakeFiles/rebuild_cache.dir
-/home/lidox/VScode Projects/Apple/build/CMakeFiles/edit_cache.dir
-/home/lidox/VScode Projects/Apple/build/CMakeFiles/demo.dir
