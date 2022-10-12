@@ -1,7 +1,3 @@
-# 李东校
-
-GitHub链接：[Homework 1](https://github.com/SkyArroww/RoboMaster-Visual/tree/main/Homework 1)
-
 ###  T1    Shell
 
 本人shell小白，所以去网上搜了搜，结果如下：
