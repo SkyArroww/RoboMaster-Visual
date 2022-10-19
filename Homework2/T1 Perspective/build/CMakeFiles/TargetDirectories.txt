@@ -1,0 +1,3 @@
+/home/lidox/VScode Projects/Homework2/Perspective/build/CMakeFiles/rebuild_cache.dir
+/home/lidox/VScode Projects/Homework2/Perspective/build/CMakeFiles/edit_cache.dir
+/home/lidox/VScode Projects/Homework2/Perspective/build/CMakeFiles/demo.dir
