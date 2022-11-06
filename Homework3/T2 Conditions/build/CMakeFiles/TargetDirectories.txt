@@ -1,0 +1,3 @@
+/home/lidox/VScode Projects/Homework3/T2 Conditions/build/CMakeFiles/rebuild_cache.dir
+/home/lidox/VScode Projects/Homework3/T2 Conditions/build/CMakeFiles/edit_cache.dir
+/home/lidox/VScode Projects/Homework3/T2 Conditions/build/CMakeFiles/demo.dir
