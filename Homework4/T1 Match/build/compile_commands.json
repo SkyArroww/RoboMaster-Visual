@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/lidox/VScode Projects/Homeworl4/T1 Match/build",
+  "command": "/usr/bin/g++   -I/usr/include/eigen3 -isystem /usr/local/include/opencv4  -g   -std=gnu++14 -o CMakeFiles/demo.dir/main.cpp.o -c \"/home/lidox/VScode Projects/Homeworl4/T1 Match/main.cpp\"",
+  "file": "/home/lidox/VScode Projects/Homeworl4/T1 Match/main.cpp"
+}
+]
