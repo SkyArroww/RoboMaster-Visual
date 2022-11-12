@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/lidox/VScode Projects/Homeworl4/T2 Depth/build",
+  "command": "/usr/bin/g++   -isystem /usr/local/include/opencv4 -isystem /usr/include/eigen3  -g   -std=gnu++17 -o CMakeFiles/main.dir/main.cpp.o -c \"/home/lidox/VScode Projects/Homeworl4/T2 Depth/main.cpp\"",
+  "file": "/home/lidox/VScode Projects/Homeworl4/T2 Depth/main.cpp"
+},
+{
+  "directory": "/home/lidox/VScode Projects/Homeworl4/T2 Depth/build",
+  "command": "/usr/bin/g++   -isystem /usr/local/include/opencv4 -isystem /usr/include/eigen3  -g   -std=gnu++17 -o CMakeFiles/main.dir/VO.cpp.o -c \"/home/lidox/VScode Projects/Homeworl4/T2 Depth/VO.cpp\"",
+  "file": "/home/lidox/VScode Projects/Homeworl4/T2 Depth/VO.cpp"
+}
+]

@@ -1,0 +1,3 @@
+/home/lidox/VScode Projects/Homeworl4/T2 Depth/build/CMakeFiles/rebuild_cache.dir
+/home/lidox/VScode Projects/Homeworl4/T2 Depth/build/CMakeFiles/edit_cache.dir
+/home/lidox/VScode Projects/Homeworl4/T2 Depth/build/CMakeFiles/main.dir
